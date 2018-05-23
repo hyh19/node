@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+## CentOS 7.5
+
 # 工作目录
 WORKING_DIR=/tmp
 
